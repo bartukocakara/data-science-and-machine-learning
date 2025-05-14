@@ -1,3 +1,9 @@
+Package management
+
+```
+python3 -m pip install numpy matplotlib seaborn
+```
+
 🧱 Step-by-step: Create myenv
 1️⃣ Open terminal and navigate to your project folder:
 bash
